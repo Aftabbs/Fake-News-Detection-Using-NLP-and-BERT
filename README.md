@@ -4,7 +4,7 @@
  
 # Introduction      
 This project focuses on the detection of fake news using Natural Language Processing (NLP) techniques and BERT (Bidirectional Encoder Representations from Transformers) model. The goal is to build a machine learning model that can accurately classify news articles as either fake or true based on their textual content.
-
+  
 ![image](https://github.com/Aftabbs/Fake-News-Detection-Using-NLP-and-BERT/assets/112916888/50b817da-321a-419f-84bd-83ed60fbd074)
 
 # Dataset
