@@ -1,5 +1,5 @@
 # Fake News Detection Using NLP and Fine Tune With BERT 
- 
+  
 ![image](https://github.com/Aftabbs/Fake-News-Detection-Using-NLP-and-BERT/assets/112916888/a6ebc82e-2a36-4a44-aab0-3d62d26664ab)
  
 # Introduction         
